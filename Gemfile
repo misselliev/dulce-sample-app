@@ -10,6 +10,10 @@ gem 'bootstrap-sass'
 gem 'rails-controller-testing'
 gem 'jquery-rails'
 gem 'rails-ujs'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
